@@ -1,0 +1,10 @@
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\bin\Debug\netstandard2.1\ConscriptMod.deps.json
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\bin\Debug\netstandard2.1\ConscriptMod.dll
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\bin\Debug\netstandard2.1\ConscriptMod.pdb
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.csproj.AssemblyReference.cache
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.AssemblyInfoInputs.cache
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.AssemblyInfo.cs
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.csproj.CoreCompileInputs.cache
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.dll
+C:\Users\Teragos\Desktop\ROR 2 mods\с\Conscript - Reactivated\Conscript\obj\Debug\netstandard2.1\ConscriptMod.pdb

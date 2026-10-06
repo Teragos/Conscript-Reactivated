@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\Conscript\\ConscriptMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\Conscript\\ConscriptMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\Conscript\\ConscriptMod.csproj",
+        "projectName": "ConscriptMod",
+        "projectPath": "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\Conscript\\ConscriptMod.csproj",
+        "packagesPath": "C:\\Users\\Teragos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\Conscript\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Teragos\\Desktop\\ROR 2 mods\\с\\Conscript - Reactivated\\NuGet.Config",
+          "C:\\Users\\Teragos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {},
+          "https://nuget.windows10ce.com/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "MMHOOK.RoR2": {
+              "target": "Package",
+              "version": "[2025.12.9, )",
+              "noWarn": [
+                "NU1701"
+              ]
+            },
+            "R2API.ContentManagement": {
+              "target": "Package",
+              "version": "[1.0.11, )"
+            },
+            "R2API.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "R2API.Language": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "R2API.Prefab": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "R2API.RecalculateStats": {
+              "target": "Package",
+              "version": "[1.6.6, )"
+            },
+            "R2API.Sound": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[1.4.1-r.0, )"
+            },
+            "RoR2BepInExPack": {
+              "target": "Package",
+              "version": "[1.43.0, )"
+            },
+            "score-MiscFixes": {
+              "target": "Package",
+              "version": "[1.5.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
